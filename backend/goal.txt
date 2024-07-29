@@ -1,0 +1,20 @@
+- nodejs
+- npm package
+- express, mongoose etc
+- basic express server
+- basic route (/) > static response
+- Route (/signup, /signin, /userinfo)
+- controllers
+- schema
+- Database connection
+- JWT token
+
+packages required
+    express
+    cookie-parser
+    bcrypt
+    mongoose
+    jsonwebtoken
+    cors
+    email-validator
+    dotenv
